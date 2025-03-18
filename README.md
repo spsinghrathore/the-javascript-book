@@ -1,4 +1,4 @@
-# the-javascript-book
+# the-javascript-book : "BECAME A JS BEAST"
 A complete guide to understanding JavaScript concepts, roadmap, projects, and interview prep. For beginners to mastery.
 # Understand JavaScript
 

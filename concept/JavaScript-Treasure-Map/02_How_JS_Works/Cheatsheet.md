@@ -216,18 +216,3 @@ var x = 10;
 console.log(x); // 10
 ```
 ✅ **This is how JavaScript works!** 🚀  
-```
-
----
-
-### ✅ How to Use This Repo?  
-- **Start with `how-it-works.md`** to understand the concept.  
-- **Practice in `practice.md`** with real problems.  
-- **Read `real-life-example.md`** to see how it applies.  
-- **Revise with `revision-notes.md`** before interviews.  
-- **Use `cheatsheet.md`** for quick reference.  
-
----
-
-### 🎯 **This repo will make you job-ready in JavaScript!**  
-Now, just **upload this to GitHub** and keep building! 🚀🔥
